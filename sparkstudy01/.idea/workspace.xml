@@ -13,48 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reduce1.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/reduce1.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="e#31#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count3.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/count3.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aggregate7.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/aggregate7.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fold8.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/fold8.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="saveAsTextFile9.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/saveAsTextFile9.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,6 +47,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study1/wd/WordCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="StorageLevel.scala" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/storage/StorageLevel.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +79,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RDD.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/RDD.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="614" column="15" lean-forward="false" selection-start-line="614" selection-start-column="6" selection-end-line="614" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
-              <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+              <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reduceByKeyRDD3.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/reduceByKeyRDD3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="14" column="118" lean-forward="false" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
               <folding />
             </state>
           </provider>
@@ -148,7 +136,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/ValueRDD2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/ValueRDD1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/MapRDD1.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study1/wd/WordCount.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/MapPartitionsRDD2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/mapPartitionsWithIndexRDD3.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/flatMapRDD4.scala" />
@@ -168,7 +155,6 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/doubleValue/zipRDD5.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/partitionByRDD1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/groupByKeyRDD2.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/reduceByKeyRDD3.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/aggregateByKeyRDD4.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/foldByKeyRDD5.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/combineByKeyRDD6.scala" />
@@ -193,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/countByKey10.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/funcd/Search.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/cache/CacheDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/reduceByKeyRDD3.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/cjy/study1/wd/WordCount.scala" />
       </list>
     </option>
   </component>
@@ -323,6 +311,76 @@
               <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="cjy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="cjy" type="462c0819:PsiDirectoryNode" />
+              <item name="wd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="cjy" type="462c0819:PsiDirectoryNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="cjy" type="462c0819:PsiDirectoryNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+              <item name="RDD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkstudy01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkstudy01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="cjy" type="462c0819:PsiDirectoryNode" />
+              <item name="study2" type="462c0819:PsiDirectoryNode" />
+              <item name="RDD" type="462c0819:PsiDirectoryNode" />
+              <item name="convertRDD" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -360,7 +418,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CacheDemo">
+  <component name="RunManager" selected="Application.WordCount">
     <configuration name="CacheDemo" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -388,6 +446,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.cjy.study2.funcd.SeriTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sparkstudy01" />
+      <envs />
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cjy.study1.wd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.cjy.study1.wd.WordCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -499,33 +576,14 @@
       <module name="sparkstudy01" />
       <envs />
     </configuration>
-    <configuration name="fold8" type="Application" factoryName="Application" temporary="true">
+    <configuration name="reduceByKeyRDD3" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.cjy.study2.action.*" />
+          <option name="PATTERN" value="com.cjy.study2.RDD.keyValue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cjy.study2.action.fold8" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkstudy01" />
-      <envs />
-    </configuration>
-    <configuration name="saveAsTextFile9" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.cjy.study2.action.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.cjy.study2.action.saveAsTextFile9" />
+      <option name="MAIN_CLASS_NAME" value="com.cjy.study2.RDD.keyValue.reduceByKeyRDD3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -538,19 +596,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.fold8" />
-      <item index="1" class="java.lang.String" itemvalue="Application.saveAsTextFile9" />
-      <item index="2" class="java.lang.String" itemvalue="Application.countByKey10" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SeriTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CacheDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.countByKey10" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SeriTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CacheDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.reduceByKeyRDD3" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WordCount" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CacheDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SeriTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.countByKey10" />
-        <item index="3" class="java.lang.String" itemvalue="Application.saveAsTextFile9" />
-        <item index="4" class="java.lang.String" itemvalue="Application.fold8" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WordCount" />
+        <item index="1" class="java.lang.String" itemvalue="Application.reduceByKeyRDD3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CacheDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SeriTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.countByKey10" />
       </list>
     </recent_temporary>
   </component>
@@ -574,15 +632,16 @@
       <updated>1568251610601</updated>
       <workItem from="1568251628441" duration="1004000" />
       <workItem from="1568255515478" duration="14648000" />
-      <workItem from="1568596864041" duration="22358000" />
+      <workItem from="1568596864041" duration="23000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38010000" />
+    <option name="totallyTimeSpent" value="38652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -594,7 +653,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32594523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4915254" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -628,14 +687,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study1/wd/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/soft/scala/scala-2.11.12-source.zip!/scala-2.11.12/src/library/scala/package.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
@@ -826,14 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="203" column="61" lean-forward="true" selection-start-line="203" selection-start-column="61" selection-end-line="203" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/foldByKeyRDD5.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -848,16 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#37#68#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/reduceByKeyRDD3.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="49" />
           <folding>
             <element signature="e#37#68#0" expanded="false" />
           </folding>
@@ -948,14 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/sortByRDD12.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/first4.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -976,14 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/RDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1107" column="82" lean-forward="true" selection-start-line="1107" selection-start-column="63" selection-end-line="1107" selection-end-column="82" />
           <folding />
         </state>
       </provider>
@@ -1019,22 +1036,6 @@
           <folding>
             <element signature="e#31#62#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/part-00000">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/saveAsTextFile9.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,7 +1088,63 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
-          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="319" column="56" lean-forward="false" selection-start-line="319" selection-start-column="6" selection-end-line="319" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/keyValue/reduceByKeyRDD3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="118" lean-forward="false" selection-start-line="14" selection-start-column="118" selection-end-line="14" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/RDD/convertRDD/sortByRDD12.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="614" column="15" lean-forward="false" selection-start-line="614" selection-start-column="6" selection-end-line="614" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study2/action/saveAsTextFile9.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/part-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/cjy/study1/wd/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
           <folding />
         </state>
       </provider>
