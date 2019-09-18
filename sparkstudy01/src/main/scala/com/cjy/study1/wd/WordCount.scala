@@ -9,7 +9,7 @@ object WordCount {
 
       def main(args: Array[String]): Unit = {
             // 创建配置，并设置任务名称，
-            // setMaster("local[*]")：用于在机测试使用，当需要打包到spark环境下运行时不需要。
+            // setMaster("local[*]")：用于本机测试使用，当需要打包到spark环境下运行时不需要。
             val conf = new SparkConf().setAppName("WC---").setMaster("local[*]")
 
 //            val conf = new SparkConf().setAppName("WC---") //打包提交到spark下运行时
